@@ -20,7 +20,7 @@ A conversational AI agent that allows users to query structured CSV datasets usi
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/gpt-data-insights-agent.git
+git clone https://github.com/Manav2315/gpt-data-insights-agent.git
 cd gpt-data-insights-agent
 ```
 
